@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    gap: 5rem;
+    padding: 3rem;
+    justify-content: center;
+    background-color: blue;
+    font-size: 1.5rem;
+}
+
+button {
+    padding: 1rem;
+    background-color: blue;
+    color: yellow;
+}
